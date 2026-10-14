@@ -26,13 +26,13 @@ I'm a Computer Engineering graduate focused on backend development, REST APIs, a
 Desktop application for creating and managing gold invoices.
 - **Tech:** Python, Tkinter
 - **Features:** price calculation, invoice generation, user-friendly forms
-- **Repo:** [gold-invoice-tkinter](https://github.com/YOUR_USERNAME/gold-invoice-tkinter)
+
 
 ### 🌐 Django REST API Projects
 Backend projects using Django, DRF, and PostgreSQL.
 - **Tech:** Django, DRF, PostgreSQL, Docker
 - **Features:** authentication, permissions, CRUD APIs, unit testing
-- **Repo:** [django-backend-projects](https://github.com/YOUR_USERNAME/django-backend-projects)
+
 
 ---
 

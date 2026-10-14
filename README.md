@@ -3,7 +3,7 @@
 
 I'm a Computer Engineering graduate focused on backend development, REST APIs, and database design. I enjoy building modular, scalable web applications with Django and PostgreSQL.
 
-- 🔭 Currently working on Django & DRF projects
+- 🔭 Working on Django, DRF and PostgreSQL projects
 - 🌱 Learning more about software architecture and deployment
 - 📫 Reach me at: Rezamanzari80@gmail.com
 
@@ -22,6 +22,12 @@ I'm a Computer Engineering graduate focused on backend development, REST APIs, a
 
 ## 🚀 Featured Projects
 
+### 🛒 Kalabama Online Shop — Django Backend
+A full-featured e-commerce backend for an online shop.
+- **Tech:** Django, Django REST Framework, PostgreSQL, Docker
+- **Features:** user authentication, product & category management, cart, order system, payment-ready API, admin panel
+
+
 ### 🧾 Gold Invoice System
 Desktop application for creating and managing gold invoices.
 - **Tech:** Python, Tkinter
@@ -35,6 +41,7 @@ Backend projects using Django, DRF, and PostgreSQL.
 
 
 ---
+
 
 
 ## 📫 Contact
